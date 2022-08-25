@@ -1,4 +1,5 @@
-from teste.format.testes import *
+from módulos.defs import *
+
 
 head()
 peso = float(input('DIGITE SEU PESO: '))

@@ -8,6 +8,9 @@ def line():
     print('-' * 50)
 
 
+
+
+
 def answer(resultado):
     if resultado <= 15.99:
         print('Magreza grave\n'
